@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    [
+      "styless",
+      {
+        "import": "~antd/lib/style/themes/default.less",
+        "lessOptions": {
+          "javascriptEnabled": true
+        }
+      }
+    ]
+  ],
+  "presets": ["babel-preset-gatsby"]
+}
