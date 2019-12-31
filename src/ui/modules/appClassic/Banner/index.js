@@ -1,8 +1,4 @@
 import React from 'react'
-import styled from 'styled-components'
-
-import { Icon } from 'react-icons-kit'
-import { playCircle } from 'react-icons-kit/fa/playCircle'
 
 import Text from 'Elements/Text'
 import Button from 'Elements/Button'

@@ -56,48 +56,6 @@
       "title": "the verge"
     }
   ],
-  "keyFeatures": {
-    "slogan": "The Anki Advantage",
-    "title": "Main Benefits",
-    "features": [
-      {
-        "id": 1,
-        "color": "#F55767",
-        "icon": "../../../assets/img/appClassic/keyFeature-1.svg",
-        "title": "Remember Anything"
-      },
-      {
-        "id": 2,
-        "color": "#2563FF",
-        "icon": "../../../assets/img/appClassic/keyFeature-2.svg",
-        "title": "Go at Your Own Pace"
-      },
-      {
-        "id": 3,
-        "color": "#40975F",
-        "icon": "../../../assets/img/appClassic/keyFeature-3.svg",
-        "title": "Minimal Time Commitment"
-      },
-      {
-        "id": 4,
-        "color": "#40975F",
-        "icon": "../../../assets/img/appClassic/keyFeature-3.svg",
-        "title": "Review Anywhere"
-      },
-      {
-        "id": 5,
-        "color": "#40975F",
-        "icon": "../../../assets/img/appClassic/keyFeature-3.svg",
-        "title": "Work at Your Level"
-      },
-      {
-        "id": 6,
-        "color": "#40975F",
-        "icon": "../../../assets/img/appClassic/keyFeature-3.svg",
-        "title": "100% Free"
-      }
-    ]
-  },
   "appSlider": {
     "carousel": [
       {
